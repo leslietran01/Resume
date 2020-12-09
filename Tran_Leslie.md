@@ -82,4 +82,5 @@ Public Speaking, Teamwork, Time Management, Adaptability, Interpersonal
 
 ## Languages
 **Proficient:** English, Vietnamese
+
 **Familiar:** Spanish
