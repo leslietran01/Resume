@@ -12,25 +12,30 @@ Seattle, WA
 ## Education
 
 **Springboard**, 2020-2021
+
 _UX/UI Design_
 
 **University of Washington**, 2016-2019
+
 _BA in Society, Ethics, & Human Behavior_
 
 ## Memorable Projects
 
 **Passion Project**
+
 _Hair & Lashes By Katie Mobile App/Website_
 - Clients need to have a more organized and efficient way of communicating with the
 company.
 - Conducted user interviews to help gather data on problem statement.
 
 **Educating Young Eyes**
+
 _University of Washington Bothell Project_
 - Designing mobile version of website forthe EYE center
 - Collaborated with software engineers to bring design to life
 
 **Springboard Capstone**
+
 _End of the Year Capstone Project_
 - While people have the Yelp app to help them search for crowd-sourced business
 reviews, pet owners have a more difficult time searching for pet-friendly places. How
@@ -40,6 +45,7 @@ enjoy their day with their pets?
 ## Experience
 
 **Springboard**
+
 _UX/UI_
 - Courses centered around design thinking such empathy, problem-defining, ideation,
 prototyping, and testing.
@@ -48,6 +54,7 @@ prototyping, and testing.
 proficiency in the tools.
 
 **Din Tai Fung**
+
 _Training & Development Coordinator_
 - Led participatory-designed sessions with trainers at all 5 restaurant locations to discover
 new and effective training techniques through ideation (i.e affinity mapping and gamestorming).
@@ -68,7 +75,7 @@ operations and catering operations), and t-shirt designs while ensuring quality 
 employee appreciation posters, and company appreciation advertisement.
 
 ## Technical Skills
-Adobe XD, Figma, Canva, Canva, Adobe Photoshop, Premiere Pro
+Adobe XD, Figma, Canva, Adobe Photoshop, Premiere Pro
 
 ## Soft Skills
 Public Speaking, Teamwork, Time Management, Adaptability, Interpersonal
